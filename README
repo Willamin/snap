@@ -1,0 +1,4 @@
+# Instructions
+go get
+go build
+sudo ./snap
