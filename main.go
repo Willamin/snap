@@ -36,4 +36,6 @@ func main() {
 			process.Signal(syscall.SIGKILL)
 		}
 	}
+	
+	fmt.Printf(":)")
 }
